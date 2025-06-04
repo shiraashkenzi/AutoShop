@@ -72,6 +72,14 @@ Models – Entity Framework classes representing database tables
 DTOs – API-facing data transfer objects without exposing internal models
 
 DbContext – Manages database connection, migrations, and seed data
+![Screen Shot 2025-06-04 at 22 58 16](https://github.com/user-attachments/assets/c908c95d-bb5d-4e3e-8266-818e44cc37a0)
+![Screen Shot 2025-06-04 at 22 58 06](https://github.com/user-attachments/assets/0f98523f-4431-40ef-bac3-838a61e51cec)
+![Screen Shot 2025-06-04 at 22 59 02](https://github.com/user-attachments/assets/ccf3d8a6-50b9-4bfe-877a-d523fcbeefca)
+![Screen Shot 2025-06-04 at 22 58 53](https://github.com/user-attachments/assets/2025e74b-e0da-4c7f-af30-e702adacffb5)
+![Screen Shot 2025-06-04 at 22 58 34](https://github.com/user-attachments/assets/3bfb1bcb-6560-4ddd-9432-695b34ea7153)
+
+![Screen Shot 2025-06-04 at 22 57 52](https://github.com/user-attachments/assets/10ddf3c7-1de0-45ed-80e6-e1318abac13d)
+![Screen Shot 2025-06-04 at 22 57 32](https://github.com/user-attachments/assets/9061b392-fa07-4926-b38e-e4009d973999)
 
 
 
